@@ -1,0 +1,14 @@
+{
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "cSpell.language": "en,es",
+  "cSpell.words": [
+    "2dsphere",
+    "bsonType",
+    "mongosh",
+    "vlca",
+    "wikipedia"
+  ]
+}
