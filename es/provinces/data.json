@@ -1,0 +1,627 @@
+[
+  {
+    "_id": 2,
+    "name": {
+      "es": "Albacete"
+    },
+    "ac": 8,
+    "wikipedia": {
+      "es": "Provincia_de_Albacete",
+      "en": "Province_of_Albacete",
+      "it": "Provincia_di_Albacete"
+    }
+  },
+  {
+    "_id": 3,
+    "name": {
+      "es": "Alicante",
+      "vlca": "Alacant"
+    },
+    "ac": 10,
+    "wikipedia": {
+      "es": "Provincia_de_Alicante",
+      "en": "Province_of_Alicante",
+      "it": "Provincia_di_Alicante"
+    }
+  },
+  {
+    "_id": 4,
+    "name": {
+      "es": "Almería"
+    },
+    "ac": 1,
+    "wikipedia": {
+      "es": "Provincia_de_Almería",
+      "en": "Province_of_Almería",
+      "it": "Provincia_di_Almería"
+    }
+  },
+  {
+    "_id": 1,
+    "name": {
+      "es": "Álava"
+    },
+    "ac": 16,
+    "wikipedia": {
+      "es": "Álava",
+      "en": "Álava",
+      "it": "Álava"
+    }
+  },
+  {
+    "_id": 33,
+    "name": {
+      "es": "Asturias"
+    },
+    "ac": 3,
+    "wikipedia": {
+      "es": "Asturias",
+      "en": "Asturias",
+      "it": "Asturie"
+    }
+  },
+  {
+    "_id": 5,
+    "name": {
+      "es": "Ávila"
+    },
+    "ac": 7,
+    "wikipedia": {
+      "es": "Provincia_de_Ávila",
+      "en": "Province_of_Ávila",
+      "it": "Provincia_di_Avila"
+    }
+  },
+  {
+    "_id": 6,
+    "name": {
+      "es": "Badajoz"
+    },
+    "ac": 11,
+    "wikipedia": {
+      "es": "Provincia_de_Badajoz",
+      "en": "Province_of_Badajoz",
+      "it": "Provincia_di_Badajoz"
+    }
+  },
+  {
+    "_id": 7,
+    "name": {
+      "es": "Islas Baleares"
+    },
+    "ac": 4,
+    "wikipedia": {
+      "es": "Islas_Baleares",
+      "en": "Balearic_Islands",
+      "it": "Isole_Baleari"
+    }
+  },
+  {
+    "_id": 8,
+    "name": {
+      "es": "Barcelona"
+    },
+    "ac": 9,
+    "wikipedia": {
+      "es": "Provincia_de_Barcelona",
+      "en": "Province_of_Barcelona",
+      "it": "Provincia_di_Barcellona"
+    }
+  },
+  {
+    "_id": 48,
+    "name": {
+      "es": "Vizcaya"
+    },
+    "ac": 16,
+    "wikipedia": {
+      "es": "Vizcaya",
+      "en": "Biscay",
+      "it": "Biscaglia"
+    }
+  },
+  {
+    "_id": 9,
+    "name": {
+      "es": "Burgos"
+    },
+    "ac": 7,
+    "wikipedia": {
+      "es": "Provincia_de_Burgos",
+      "en": "Province_of_Burgos",
+      "it": "Provincia_di_Burgos"
+    }
+  },
+  {
+    "_id": 10,
+    "name": {
+      "es": "Cáceres"
+    },
+    "ac": 11,
+    "wikipedia": {
+      "es": "Provincia_de_Cáceres",
+      "en": "Province_of_Cáceres",
+      "it": "Provincia_di_Cáceres"
+    }
+  },
+  {
+    "_id": 11,
+    "name": {
+      "es": "Cádiz"
+    },
+    "ac": 1,
+    "wikipedia": {
+      "es": "Provincia_de_Cádiz",
+      "en": "Province_of_Cádiz",
+      "it": "Provincia_di_Cadice"
+    }
+  },
+  {
+    "_id": 39,
+    "name": {
+      "es": "Cantabria"
+    },
+    "ac": 6,
+    "wikipedia": {
+      "es": "Cantabria",
+      "en": "Cantabria",
+      "it": "Cantabria"
+    }
+  },
+  {
+    "_id": 12,
+    "name": {
+      "es": "Castellón",
+      "vlca": "Castelló"
+    },
+    "ac": 10,
+    "wikipedia": {
+      "es": "Provincia_de_Castellón",
+      "en": "Province_of_Castellón",
+      "it": "Provincia_di_Castellón"
+    }
+  },
+  {
+    "_id": 13,
+    "name": {
+      "es": "Ciudad Real"
+    },
+    "ac": 8,
+    "wikipedia": {
+      "es": "Provincia_de_Ciudad_Real",
+      "en": "Province_of_Ciudad_Real",
+      "it": "Provincia_di_Ciudad_Real"
+    }
+  },
+  {
+    "_id": 14,
+    "name": {
+      "es": "Córdoba"
+    },
+    "ac": 1,
+    "wikipedia": {
+      "es": "Provincia_de_Córdoba_(España)",
+      "en": "Province_of_Córdoba_(Spain)",
+      "it": "Provincia_di_Cordova"
+    }
+  },
+  {
+    "_id": 15,
+    "name": {
+      "es": "La Coruña",
+      "gl": "A Coruña"
+    },
+    "ac": 12,
+    "wikipedia": {
+      "es": "Provincia_de_La_Coruña",
+      "en": "Province_of_A_Coruña",
+      "it": "Provincia_della_Coruña"
+    }
+  },
+  {
+    "_id": 16,
+    "name": {
+      "es": "Cuenca"
+    },
+    "ac": 8,
+    "wikipedia": {
+      "es": "Provincia_de_Cuenca",
+      "en": "Province_of_Cuenca",
+      "it": "Provincia_di_Cuenca"
+    }
+  },
+  {
+    "_id": 20,
+    "name": {
+      "es": "Guipúzcoa"
+    },
+    "ac": 16,
+    "wikipedia": {
+      "es": "Guipúzcoa",
+      "en": "Gipuzkoa",
+      "it": "Gipuzkoa"
+    }
+  },
+  {
+    "_id": 17,
+    "name": {
+      "es": "Gerona"
+    },
+    "ac": 9,
+    "wikipedia": {
+      "es": "Provincia_de_Gerona",
+      "en": "Province_of_Girona",
+      "it": "Provincia_di_Gerona"
+    }
+  },
+  {
+    "_id": 18,
+    "name": {
+      "es": "Granada"
+    },
+    "ac": 1,
+    "wikipedia": {
+      "es": "Provincia_de_Granada",
+      "en": "Province_of_Granada",
+      "it": "Provincia_di_Granada"
+    }
+  },
+  {
+    "_id": 19,
+    "name": {
+      "es": "Guadalajara"
+    },
+    "ac": 8,
+    "wikipedia": {
+      "es": "Provincia_de_Guadalajara",
+      "en": "Province_of_Guadalajara",
+      "it": "Provincia_di_Guadalajara"
+    }
+  },
+  {
+    "_id": 21,
+    "name": {
+      "es": "Huelva"
+    },
+    "ac": 1,
+    "wikipedia": {
+      "es": "Provincia_de_Huelva",
+      "en": "Province_of_Huelva",
+      "it": "Provincia_di_Huelva"
+    }
+  },
+  {
+    "_id": 22,
+    "name": {
+      "es": "Huesca"
+    },
+    "ac": 2,
+    "wikipedia": {
+      "es": "Provincia_de_Huesca",
+      "en": "Province_of_Huesca",
+      "it": "Provincia_di_Huesca"
+    }
+  },
+  {
+    "_id": 23,
+    "name": {
+      "es": "Jaén"
+    },
+    "ac": 1,
+    "wikipedia": {
+      "es": "Provincia_de_Jaén_(España)",
+      "en": "Province_of_Jaén_(Spain)",
+      "it": "Provincia_di_Jaén"
+    }
+  },
+  {
+    "_id": 24,
+    "name": {
+      "es": "León"
+    },
+    "ac": 7,
+    "wikipedia": {
+      "es": "Provincia_de_León",
+      "en": "Province_of_León",
+      "it": "Provincia_di_León"
+    }
+  },
+  {
+    "_id": 25,
+    "name": {
+      "es": "Lérida"
+    },
+    "ac": 9,
+    "wikipedia": {
+      "es": "Provincia_de_Lérida",
+      "en": "Province_of_Lleida",
+      "it": "Provincia_di_Lleida"
+    }
+  },
+  {
+    "_id": 27,
+    "name": {
+      "es": "Lugo"
+    },
+    "ac": 12,
+    "wikipedia": {
+      "es": "Provincia_de_Lugo",
+      "en": "Province_of_Lugo",
+      "it": "Provincia_di_Lugo"
+    }
+  },
+  {
+    "_id": 28,
+    "name": {
+      "es": "Madrid"
+    },
+    "ac": 13,
+    "wikipedia": {
+      "es": "Provincia_de_Madrid"
+    }
+  },
+  {
+    "_id": 29,
+    "name": {
+      "es": "Málaga"
+    },
+    "ac": 1,
+    "wikipedia": {
+      "es": "Provincia_de_Málaga",
+      "en": "Province_of_Málaga",
+      "it": "Provincia_di_Malaga"
+    }
+  },
+  {
+    "_id": 30,
+    "name": {
+      "es": "Murcia"
+    },
+    "ac": 14,
+    "wikipedia": {
+      "es": "Provincia_de_Murcia"
+    }
+  },
+  {
+    "_id": 31,
+    "name": {
+      "es": "Navarra"
+    },
+    "ac": 15,
+    "wikipedia": {
+      "es": "Navarra",
+      "en": "Navarre",
+      "it": "Navarra"
+    }
+  },
+  {
+    "_id": 32,
+    "name": {
+      "es": "Orense",
+      "gl": "Ourense"
+    },
+    "ac": 12,
+    "wikipedia": {
+      "es": "Provincia_de_Orense",
+      "en": "Province_of_Ourense",
+      "it": "Provincia_di_Ourense"
+    }
+  },
+  {
+    "_id": 34,
+    "name": {
+      "es": "Palencia"
+    },
+    "ac": 7,
+    "wikipedia": {
+      "es": "Provincia_de_Palencia",
+      "en": "Province_of_Palencia",
+      "it": "Provincia_di_Palencia"
+    }
+  },
+  {
+    "_id": 35,
+    "name": {
+      "es": "Las Palmas"
+    },
+    "ac": 5,
+    "wikipedia": {
+      "es": "Provincia_de_Las_Palmas",
+      "en": "Province_of_Las_Palmas",
+      "it": "Provincia_di_Las_Palmas"
+    }
+  },
+  {
+    "_id": 36,
+    "name": {
+      "es": "Pontevedra"
+    },
+    "ac": 12,
+    "wikipedia": {
+      "es": "Provincia_de_Pontevedra",
+      "en": "Province_of_Pontevedra",
+      "it": "Provincia_di_Pontevedra"
+    }
+  },
+  {
+    "_id": 26,
+    "name": {
+      "es": "La Rioja"
+    },
+    "ac": 17,
+    "wikipedia": {
+      "es": "La_Rioja_(España)",
+      "en": "La_Rioja",
+      "it": "La_Rioja_(Spagna)"
+    }
+  },
+  {
+    "_id": 37,
+    "name": {
+      "es": "Salamanca"
+    },
+    "ac": 7,
+    "wikipedia": {
+      "es": "Provincia_de_Salamanca",
+      "en": "Province_of_Salamanca",
+      "it": "Provincia_di_Salamanca"
+    }
+  },
+  {
+    "_id": 38,
+    "name": {
+      "es": "Santa Cruz de Tenerife"
+    },
+    "ac": 5,
+    "wikipedia": {
+      "es": "Provincia_de_Santa_Cruz_de_Tenerife",
+      "en": "Province_of_Santa_Cruz_de_Tenerife",
+      "it": "Provincia_di_Santa_Cruz_de_Tenerife"
+    }
+  },
+  {
+    "_id": 40,
+    "name": {
+      "es": "Segovia"
+    },
+    "ac": 7,
+    "wikipedia": {
+      "es": "Provincia_de_Segovia",
+      "en": "Province_of_Segovia",
+      "it": "Provincia_di_Segovia"
+    }
+  },
+  {
+    "_id": 41,
+    "name": {
+      "es": "Sevilla"
+    },
+    "ac": 1,
+    "wikipedia": {
+      "es": "Provincia_de_Sevilla",
+      "en": "Province_of_Seville",
+      "it": "Provincia_di_Siviglia"
+    }
+  },
+  {
+    "_id": 42,
+    "name": {
+      "es": "Soria"
+    },
+    "ac": 7,
+    "wikipedia": {
+      "es": "Provincia_de_Soria",
+      "en": "Province_of_Soria",
+      "it": "Provincia_di_Soria"
+    }
+  },
+  {
+    "_id": 43,
+    "name": {
+      "es": "Tarragona"
+    },
+    "ac": 9,
+    "wikipedia": {
+      "es": "Provincia_de_Tarragona",
+      "en": "Province_of_Tarragona",
+      "it": "Provincia_di_Tarragona"
+    }
+  },
+  {
+    "_id": 44,
+    "name": {
+      "es": "Teruel"
+    },
+    "ac": 2,
+    "wikipedia": {
+      "es": "Provincia_de_Teruel",
+      "en": "Province_of_Teruel",
+      "it": "Provincia_di_Teruel"
+    }
+  },
+  {
+    "_id": 45,
+    "name": {
+      "es": "Toledo"
+    },
+    "ac": 8,
+    "wikipedia": {
+      "es": "Provincia_de_Toledo",
+      "en": "Province_of_Toledo",
+      "it": "Provincia_di_Toledo"
+    }
+  },
+  {
+    "_id": 46,
+    "name": {
+      "es": "Valencia",
+      "vlca": "València"
+    },
+    "ac": 10,
+    "wikipedia": {
+      "es": "Provincia_de_Valencia",
+      "en": "Province_of_Valencia",
+      "it": "Provincia_di_Valencia"
+    }
+  },
+  {
+    "_id": 47,
+    "name": {
+      "es": "Valladolid"
+    },
+    "ac": 7,
+    "wikipedia": {
+      "es": "Provincia_de_Valladolid",
+      "en": "Province_of_Valladolid",
+      "it": "Provincia_di_Valladolid"
+    }
+  },
+  {
+    "_id": 49,
+    "name": {
+      "es": "Zamora"
+    },
+    "ac": 7,
+    "wikipedia": {
+      "es": "Provincia_de_Zamora",
+      "en": "Province_of_Zamora",
+      "it": "Provincia_di_Zamora"
+    }
+  },
+  {
+    "_id": 50,
+    "name": {
+      "es": "Zaragoza"
+    },
+    "ac": 2,
+    "wikipedia": {
+      "es": "Provincia_de_Zaragoza",
+      "en": "Province_of_Zaragoza",
+      "it": "Provincia_di_Saragozza"
+    }
+  },
+  {
+    "_id": 51,
+    "name": {
+      "es": "Ceuta"
+    },
+    "ac": 18,
+    "wikipedia": {
+      "es": "Ceuta",
+      "en": "Ceuta",
+      "it": "Ceuta"
+    }
+  },
+  {
+    "_id": 52,
+    "name": {
+      "es": "Melilla"
+    },
+    "ac": 19,
+    "wikipedia": {
+      "es": "Melilla",
+      "en": "Melilla",
+      "it": "Melilla"
+    }
+  }
+]

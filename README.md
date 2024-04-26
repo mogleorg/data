@@ -16,5 +16,6 @@ mongosh URI camino/al/catálogo/schema.js
 
 Catálogo | Descripción
 :--: | :--
+***es.provinces*** | Provincias de **España**.
 ***vlc.districts*** | Distritos de **Valencia** (**España**).
 ***vlc.neighborhoods*** | Barrios de **Valencia** (**España**).
