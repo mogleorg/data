@@ -34,7 +34,7 @@ body:
     id: priority
     attributes:
       label: Priority
-      description: Please, select the priority level for you
+      description: Please, select the priority level for you.
       options:
         - Low
         - Medium
