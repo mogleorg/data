@@ -7,8 +7,8 @@ body:
   - id: description
     type: textarea
     attributes:
-      label: Please, describe the feature.
-      description: What feature would you like to get added?
+      label: What feature would you like to get added?
+      description: Please, describe the feature.
       placeholder: Feature description
     validations:
       required: true
@@ -16,8 +16,8 @@ body:
   - id: solving
     type: textarea
     attributes:
-      label: Please, describe the problem to resolve.
-      description: What problem is it solving?
+      label: What problem is it solving?
+      description: Problem to resolve.
       placeholder: Problem description to solve
     validations:
       required: false
