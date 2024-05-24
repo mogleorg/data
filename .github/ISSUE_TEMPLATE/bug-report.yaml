@@ -1,0 +1,42 @@
+name: Bug report
+description: Create a report for a bug
+title: "[bug] "
+labels: [bug]
+
+body:
+  - id: catalog
+    type: input
+    attributes:
+      label: Catalog name
+      description: Catalog name
+    validations:
+      required: true
+  
+  - id: background
+    type: textarea
+    attributes:
+      label: Bug description
+      description: Please, provide the description of issue you're seeing.
+      placeholder: Description
+    validations:
+      required: true
+  
+  - id: expected
+    type: textarea
+    attributes:
+      label: Expected behavior
+      description: Please, provide a description of the expected.
+      placeholder: Expected
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: Please, select the priority level for you.
+      options:
+        - Low
+        - Medium
+        - High
+        - Critical
